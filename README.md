@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning Java with help from [@kangarko](https://mineacademy.org)'s MineAcademy.org
+- 🌱 I’m currently learning Java with help from [@kangarko](https://github.com/kangarko)'s [MineAcademy.org](https://mineacademy.org)
 - 💬 Ask me about pizza.
 
 <!--
